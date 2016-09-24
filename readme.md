@@ -12,10 +12,10 @@ Anvisningar till Processing med Python
 10. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
 11. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
 12. Kör du fast:
-  1. Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
-  2. Använd Help References
-  3. Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
-  4. Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
+  *. Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
+  *. Använd Help References
+  *. Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
+  *. Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
 
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
