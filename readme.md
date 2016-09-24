@@ -1,8 +1,8 @@
 Anvisningar till Processing med Python
 
 01. Låna en USB-sticka eller gå till processing.org 
-02. Kopiera ner katalogen /processing-3.2.1 till C:\processing-3.2.1
-03. Kopiera ner katalogen A78_Grafisk_Assert till C:\CoderDojo\A78_Grafisk_Assert
+02. Kopiera ner katalogen \processing-3.2.1 till C:\processing-3.2.1
+03. Kopiera ner katalogen Tom\A78_Grafisk_Assert till C:\CoderDojo\A78_Grafisk_Assert
 04. Starta Processing. Skapa en genväg på Aktivitetslisten. 
 05. Klicka på "Java" uppe i högra hörnet
 06. Installera Python Mode
