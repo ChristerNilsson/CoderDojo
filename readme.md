@@ -16,8 +16,8 @@
 03. File | Open A78_Grafisk_Assert.pyde
 04. Ctrl+R  
 05. Du ser nu tre bitmappar: 
-  * Bitmappen högst upp är din
-  * Bitmappen i mitten ska du efterlikna
+  * Bitmappen högst upp är din. Varje ruta är 20 pixlar stor.
+  * Bitmappen i mitten ska du efterlikna. Origo ligger längst upp till vänster.
   * Bitmappen längst ner visar skillnaden ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/RotatedRectA.PNG "The three bitmaps")  
 06. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
 07. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
