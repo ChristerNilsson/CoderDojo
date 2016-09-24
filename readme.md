@@ -20,7 +20,7 @@ Anvisningar till Processing med Python
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
   * Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
   
-![alt text](https://github.com/ChristerNilsson/CoderDojo/RotatedRectA.png "The three bitmaps")  
+![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/RotatedRectA.PNG "The three bitmaps")  
 
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
