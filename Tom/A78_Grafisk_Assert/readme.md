@@ -61,7 +61,7 @@
       * BOTTOM
   * textSize(n)
   * text("Python",x,y)
-* kommandon som lagts till för att underlätta
+* kortkommandon
   * bg(1) == background(255) 
   * fc(1,0,0) == fill(255,0,0)
   * sc(0.5) == stroke(128)
