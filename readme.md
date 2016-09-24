@@ -18,7 +18,7 @@ Anvisningar till Processing med Python
   * Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
   * Använd Help References eller klicka här [Processing Reference](https://processing.org/reference)
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
-  * Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
+  * Sitt inte och vänta. Kommentera ut problemet och gå vidare. Så småningom kommer läraren och hjälper dig.
   
 Följande kod kommer du att behöva använda: [Länk](https://github.com/ChristerNilsson/CoderDojo/blob/master/Tom/A78_Grafisk_Assert/readme.py) 
 
