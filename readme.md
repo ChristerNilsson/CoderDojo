@@ -29,3 +29,7 @@ Där finns mycket kod skriven i Python. Look and Learn!
 
 Kolla Processing på Youtube: [Coding Rainbow](]https://www.youtube.com/user/shiffman/playlists)
 Dan kör mest Java eller Javascript. Han lär dock ut häftiga saker!
+
+Processing med Python [online](https://trinket.io/processing)
+
+p5.js: [online](https://www.tutorialspoint.com/try_p5js_online.php)
