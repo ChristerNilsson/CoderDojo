@@ -22,6 +22,8 @@ Anvisningar till Processing med Python
   
 Följande kod kommer du att behöva använda: [Länk](https://github.com/ChristerNilsson/CoderDojo/blob/master/Tom/A78_Grafisk_Assert/readme.py) 
 
+Här hittar du exempel på bitmappar att efterlikna: [data](https://github.com/ChristerNilsson/CoderDojo/tree/master/Tom/A78_Grafisk_Assert/data)
+
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
 

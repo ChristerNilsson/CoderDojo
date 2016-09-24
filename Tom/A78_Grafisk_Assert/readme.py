@@ -42,7 +42,7 @@ textAlign(CENTER,CENTER)  LEFT/CENTER/RIGHT  TOP/CENTER/BOTTOM
 textSize(n)
 text("Python",x,y)
 
-(*) Dessa funktioner har lagts till av Christer.
+(*) Dessa funktioner har lagts till för att underlätta.
   bg(1) == background(255)
   fc(1,0,0) == fill(255,0,0)
   sc(0.5) == stroke(128)
