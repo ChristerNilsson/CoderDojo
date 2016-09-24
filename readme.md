@@ -16,7 +16,7 @@ Anvisningar till Processing med Python
 11. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
 12. Kör du fast:
   * Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
-  * Använd Help References
+  * Använd Help References eller klicka här [Processing Reference](C:\processing-3.2.1\modes\java\reference\index.html)
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
   * Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
   
@@ -27,5 +27,5 @@ Här hittar du exempel på bitmappar att efterlikna: [data](https://github.com/Chr
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
 
-Kolla Processing på Youtube: https://www.youtube.com/user/shiffman/playlists.
+Kolla Processing på Youtube: [Coding Rainbow](]https://www.youtube.com/user/shiffman/playlists)
 Dan kör mest Java eller Javascript. Han lär dock ut häftiga saker!
