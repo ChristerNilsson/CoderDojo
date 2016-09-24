@@ -30,23 +30,39 @@
 
 * translate(x,y)         
 * rd(degrees)                                                
-* rectMode(CENTER)          CORNER/CORNERS/CENTER/RADIUS
-* ellipseMode(CENTER)       CORNER/CORNERS/CENTER/RADIUS
+* rectMode(CENTER)          
+  * CORNER
+  * CORNERS
+  * CENTER
+  * RADIUS
+* ellipseMode(CENTER)
+  * CORNER
+  * CORNERS
+  * CENTER
+  * RADIUS
 
-* point(x,y)
-* line(x1,y1, x2,y2)
+* point(x,y)  
+* line(x1,y1, x2,y2)  
 * ellipse(x,y, w,h)
 * circle(x,y,r)                                              
 * rect(x,y, w,h)
 * triangle(x1,y1, x2,y2, x3,y3)
-* quad(x1,y1, x2,y2, x3,y3, x4,y4)
-* arc(x,y, w,h, start,stopp, PIE)
+* quad(x1,y1, x2,y2, x3,y3, x4,y4)  
+* arc(x,y, w,h, start,stopp, PIE)  
 
-* textAlign(CENTER,CENTER)  LEFT/CENTER/RIGHT  TOP/CENTER/BOTTOM
+* textAlign(CENTER,CENTER)
+ * Horizontal
+  * LEFT
+  * CENTER
+  * RIGHT
+ * Vertical
+  * TOP
+  * CENTER
+  * BOTTOM
 * textSize(n)
 * text("Python",x,y)
 
-Dessa funktioner har lagts till för att underlätta.
+Dessa funktioner har lagts till för att underlätta:
 
   * bg(1) == background(255) 
   *  fc(1,0,0) == fill(255,0,0)
