@@ -1,20 +1,27 @@
 # Anvisningar till Processing med Python
 
+## Installera Processing med Python
+
 01. Låna en USB-sticka eller gå till processing.org 
 02. Kopiera ner katalogen \processing-3.2.1 till C:\processing-3.2.1
-03. Kopiera ner katalogen Tom\A78_Grafisk_Assert till C:\CoderDojo\A78_Grafisk_Assert
-04. Starta Processing. Skapa en genväg på Aktivitetslisten. 
-05. Klicka på "Java" uppe i högra hörnet
-06. Installera Python Mode
-07. Öppna A78_Grafisk_Assert
-08. Ctrl+R. Vit cirkel tänds. Det kan ta en halv minut innan fönstret visas.
-09. Du ser nu tre bitmappar: 
+03. Starta Processing. Skapa en genväg på Aktivitetslisten. 
+04. Klicka på "Java" uppe i högra hörnet
+05. Installera Python Mode
+06. Ctrl+R. Vit cirkel tänds. Det kan ta en halv minut innan fönstret visas.
+
+## Kom igång med Grafisk Assert
+
+01. Kopiera ner katalogen \A78_Grafisk_Assert till C:\CoderDojo\A78_Grafisk_Assert
+02. Starta Processing
+03. File |Open A78_Grafisk_Assert
+04. Ctrl+R  
+05. Du ser nu tre bitmappar: 
   * Bitmappen högst upp är din
   * Bitmappen i mitten ska du efterlikna
   * Bitmappen längst ner visar skillnaden ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/RotatedRectA.PNG "The three bitmaps")  
-10. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
-11. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
-12. Kör du fast:
+06. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
+07. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
+08. Kör du fast:
   * Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
   * Använd Help References eller klicka här [Processing Reference](https://processing.org/reference)
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
@@ -24,6 +31,8 @@ Följande kod kommer du att behöva använda: [Länk](https://github.com/ChristerNil
 
 Här hittar du exempel på bitmappar att efterlikna: [data](https://github.com/ChristerNilsson/CoderDojo/tree/master/Tom/A78_Grafisk_Assert/data)
 
+## Inspiration
+
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
 
@@ -32,4 +41,4 @@ Dan kör mest Java eller Javascript. Han lär dock ut häftiga saker!
 
 Processing med Python [online](https://trinket.io/processing)
 
-p5.js: [online](https://www.tutorialspoint.com/try_p5js_online.php)
+Processing med Javascript [p5.js](https://www.tutorialspoint.com/try_p5js_online.php)
