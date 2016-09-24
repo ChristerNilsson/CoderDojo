@@ -1,15 +1,15 @@
 # Lathund till Grafisk Assert
 
-## Färger:    
-* blå == 0,0,1
-* grön == 0,1,0
-* cyan == 0,1,1
-* röd == 1,0,0
-* magenta == 1,0,1
-* gul == 1,1,0
-* svart == 0
-* grå == 0.5
-* vit == 1  
+* Färger:    
+  * blå == 0,0,1
+  * grön == 0,1,0
+  * cyan == 0,1,1
+  * röd == 1,0,0
+  * magenta == 1,0,1
+  * gul == 1,1,0
+  * svart == 0
+  * grå == 0.5
+  * vit == 1  
 
 * bakgrundsfärg:  
   * vit == bg(1)    
@@ -47,25 +47,25 @@
 * circle(x,y,r)                                              
 * rect(x,y, w,h)
 * triangle(x1,y1, x2,y2, x3,y3)
-* quad(x1,y1, x2,y2, x3,y3, x4,y4)  
+* quad(x1,y1, x2,y2, x3,y3, x4,y4)
 * arc(x,y, w,h, start,stopp, PIE)  
 
 * textAlign(CENTER,CENTER)
- * Horizontal
-   * LEFT
-   * CENTER
-   * RIGHT
- * Vertical
-   * TOP
-   * CENTER
-   * BOTTOM
+  * Horizontal
+    * LEFT
+    * CENTER
+    * RIGHT
+  * Vertical
+    * TOP
+    * CENTER
+    * BOTTOM
 * textSize(n)
 * text("Python",x,y)
 
 Dessa funktioner har lagts till för att underlätta:
 
   * bg(1) == background(255) 
-  *  fc(1,0,0) == fill(255,0,0)
+  * fc(1,0,0) == fill(255,0,0)
   * sc(0.5) == stroke(128)
   * sw(1) == strokeWeight(1)
   * circle(x,y,r) == ellipse(x,y, 2*r,2*r)
