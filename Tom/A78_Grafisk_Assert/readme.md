@@ -1,6 +1,6 @@
-# Lathund till Grafisk Assert
+## Lathund till Grafisk Assert
 
-* färger:    
+* färger
   * blå == 0,0,1
   * grön == 0,1,0
   * cyan == 0,1,1
@@ -10,15 +10,15 @@
   * svart == 0,0,0 == 0
   * grå == 0.5,0.5,0.5 == 0.5
   * vit == 1,1,1 == 1  
-* bakgrundsfärg:
+* bakgrundsfärg
   * vit == bg(1)     
   * gul == bg(1,1,0)       
-* fyllningsfärg:
+* fyllningsfärg
   * ingen == fc()   
   * vit == fc(1)  
   * gul == fc(1,1,0)  
   * röd, halvgenomskinlig == fc(1,0,0, 0.5)    
-* streckfärg:
+* streckfärg
   * ingen == sc()
   * vit == sc(1)
   * gul == sc(1,1,0)      
@@ -26,7 +26,7 @@
 * strecktjocklek
   * en pixel == sw(1) == default
   * två pixlar == sw(2)
-* positionering:
+* positionering
   * translate(x,y) == flytta på origo
   * rd(degrees)  == rotera runt origo
   * rectMode(CORNER) == default
@@ -39,7 +39,7 @@
     * CORNERS
     * CENTER
     * RADIUS
-* ritkommandon:
+* ritkommandon
   * point(x,y)
   * line(x1,y1, x2,y2)  
   * ellipse(x,y, w,h)
@@ -48,7 +48,7 @@
   * triangle(x1,y1, x2,y2, x3,y3)
   * quad(x1,y1, x2,y2, x3,y3, x4,y4)
   * arc(x,y, w,h, start,stopp, PIE)  
-* textkommandon:
+* textkommandon
   * textAlign(LEFT,BASELINE) == default
     * Horizontal
       * LEFT
@@ -61,7 +61,7 @@
       * BOTTOM
   * textSize(n)
   * text("Python",x,y)
-* kommandon som lagts lagts till för att underlätta:
+* kommandon som lagts till för att underlätta
   * bg(1) == background(255) 
   * fc(1,0,0) == fill(255,0,0)
   * sc(0.5) == stroke(128)
