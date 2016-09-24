@@ -1,7 +1,6 @@
-Lathund till Grafisk Assert
-===========================
+# Lathund till Grafisk Assert
 
-Färger:    
+## Färger:    
     0,0,1 blå
     0,1,0 grön 
     0,1,1 cyan
