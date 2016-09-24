@@ -8,8 +8,7 @@ Anvisningar till Processing med Python
 06. Installera Python Mode
 07. Öppna A78_Grafisk_Assert
 08. Ctrl+R. Vit cirkel tänds. Det kan ta en halv minut innan fönstret visas.
-09. Du ser nu tre bitmappar:
-  ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/RotatedRectA.PNG "The three bitmaps")  
+09. Du ser nu tre bitmappar: ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/RotatedRectA.PNG "The three bitmaps")  
   * Bitmappen högst upp är din
   * Bitmappen i mitten ska du efterlikna
   * Bitmappen längst ner visar skillnaden 
