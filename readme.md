@@ -20,6 +20,7 @@ Anvisningar till Processing med Python
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
   * Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
   
+Följande kod kommer du att behöva använda: [Länk](https://github.com/ChristerNilsson/CoderDojo/blob/master/Tom/A78_Grafisk_Assert/readme.py) 
 
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
