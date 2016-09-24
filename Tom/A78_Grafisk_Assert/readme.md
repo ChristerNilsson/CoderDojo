@@ -7,11 +7,11 @@
   * röd == 1,0,0
   * magenta == 1,0,1
   * gul == 1,1,0
-  * svart == 0
-  * grå == 0.5
-  * vit == 1  
+  * svart == 0,0,0 == 0
+  * grå == 0.5,0.5,0.5 == 0.5
+  * vit == 1,1,1 == 1  
 * bakgrundsfärg:
-  * vit == bg(1)    
+  * vit == bg(1)     
   * gul == bg(1,1,0)       
 * fyllningsfärg:
   * ingen == fc()   
@@ -24,17 +24,17 @@
   * gul == sc(1,1,0)      
   * röd, halvgenomskinlig == sc(1,0,0, 0.5)
 * strecktjocklek
-  * en pixel == sw(1)
+  * en pixel == sw(1) == default
   * två pixlar == sw(2)
 * positionering:
   * translate(x,y) == flytta på origo
   * rd(degrees)  == rotera runt origo
-  * rectMode(CENTER)
+  * rectMode(CORNER) == default
     * CORNER
     * CORNERS
     * CENTER
     * RADIUS
-  * ellipseMode(CENTER)
+  * ellipseMode(CENTER) == default
     * CORNER
     * CORNERS
     * CENTER
@@ -49,12 +49,13 @@
   * quad(x1,y1, x2,y2, x3,y3, x4,y4)
   * arc(x,y, w,h, start,stopp, PIE)  
 * textkommandon:
-  * textAlign(CENTER,CENTER)
+  * textAlign(LEFT,BASELINE) == default
     * Horizontal
       * LEFT
       * CENTER
       * RIGHT
     * Vertical
+      * BASELINE
       * TOP
       * CENTER
       * BOTTOM
