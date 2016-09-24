@@ -9,9 +9,9 @@
 * gul == 1,1,0
 * svart == 0
 * grå == 0.5
-* vit == 1
+* vit == 1  
 
-* bakgrundsfärg:
+* bakgrundsfärg:  
   * vit == bg(1)    
   * gul == bg(1,1,0)       
 * fyllningsfärg:
@@ -24,13 +24,13 @@
   * vit == sc(1)
   * gul == sc(1,1,0)      
   * röd, halvgenomskinlig == sc(1,0,0, 0.5)
-* strecktjocklek
+* strecktjocklek  
   * en pixel == sw(1)                                 
   * två pixlar == sw(2)                                 
 
-* translate(x,y)         
-* rd(degrees)                                                
-* rectMode(CENTER)          
+* translate(x,y)
+* rd(degrees)
+* rectMode(CENTER)
   * CORNER
   * CORNERS
   * CENTER
@@ -41,7 +41,7 @@
   * CENTER
   * RADIUS
 
-* point(x,y)  
+* point(x,y)
 * line(x1,y1, x2,y2)  
 * ellipse(x,y, w,h)
 * circle(x,y,r)                                              
@@ -52,13 +52,13 @@
 
 * textAlign(CENTER,CENTER)
  * Horizontal
-  * LEFT
-  * CENTER
-  * RIGHT
+   * LEFT
+   * CENTER
+   * RIGHT
  * Vertical
-  * TOP
-  * CENTER
-  * BOTTOM
+   * TOP
+   * CENTER
+   * BOTTOM
 * textSize(n)
 * text("Python",x,y)
 
