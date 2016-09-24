@@ -2,7 +2,7 @@
 
 ## Installera Processing med Python
 
-01. Låna en USB-sticka eller gå till processing.org 
+01. Låna en USB-sticka eller gå till [processing.org](https://processing.org/download/?processing)
 02. Kopiera ner katalogen \processing-3.2.1 till C:\processing-3.2.1
 03. Starta Processing. Skapa en genväg på Aktivitetslisten. 
 04. Klicka på "Java" uppe i högra hörnet
@@ -13,7 +13,7 @@
 
 01. Kopiera ner katalogen \A78_Grafisk_Assert till C:\CoderDojo\A78_Grafisk_Assert
 02. Starta Processing
-03. File |Open A78_Grafisk_Assert
+03. File | Open A78_Grafisk_Assert.pyde
 04. Ctrl+R  
 05. Du ser nu tre bitmappar: 
   * Bitmappen högst upp är din
@@ -21,13 +21,13 @@
   * Bitmappen längst ner visar skillnaden ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/RotatedRectA.PNG "The three bitmaps")  
 06. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
 07. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
-08. Kör du fast:
+08. Om du kör fast:
   * Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
   * Använd Help References eller klicka här [Processing Reference](https://processing.org/reference)
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
   * Sitt inte och vänta. Kommentera ut problemet och gå vidare. Så småningom kommer läraren och hjälper dig.
   
-Följande kod kommer du att behöva använda: [Länk](https://github.com/ChristerNilsson/CoderDojo/blob/master/Tom/A78_Grafisk_Assert/readme.py) 
+Följande kommandon behövs: [Länk](https://github.com/ChristerNilsson/CoderDojo/blob/master/Tom/A78_Grafisk_Assert/readme.md) 
 
 Här hittar du exempel på bitmappar att efterlikna: [data](https://github.com/ChristerNilsson/CoderDojo/tree/master/Tom/A78_Grafisk_Assert/data)
 
