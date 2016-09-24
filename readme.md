@@ -8,7 +8,10 @@ Anvisningar till Processing med Python
 06. Installera Python Mode
 07. Öppna A78_Grafisk_Assert
 08. Ctrl+R. Vit cirkel tänds. Det kan ta en halv minut innan fönstret visas.
-09. Du ser nu tre bitmappar. Skriv kod som återskapar bitmappen i mitten. Bitmappen högst upp är din. Den längst ner visar skillnaden.
+09. Du ser nu tre bitmappar:
+  * Bitmappen högst upp är din
+  * Bitmappen i mitten ska du efterlikna
+  * Bitmappen längst ner visar skillnaden 
 10. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
 11. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
 12. Kör du fast:
@@ -16,6 +19,8 @@ Anvisningar till Processing med Python
   * Använd Help References
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
   * Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
+  
+![alt text](https://github.com/ChristerNilsson/CoderDojo/RotatedRectA.png "The three bitmaps")  
 
 Kolla Processing File | Examples... 
 Där finns mycket kod skriven i Python. Look and Learn!
