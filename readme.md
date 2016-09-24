@@ -16,7 +16,7 @@ Anvisningar till Processing med Python
 11. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
 12. Kör du fast:
   * Prata med din programmeringskompis. Man bör arbeta i par. Fyra hjärnhalvor tänker bättre än två.
-  * Använd Help References eller klicka här [Processing Reference](C:\processing-3.2.1\modes\java\reference\index.html)
+  * Använd Help References eller klicka här [Processing Reference](https://processing.org/reference)
   * Gå och lyssna när läraren förklarar för någon annan. Stor chans att det är samma problem.
   * Sitt inte och vänta. Kommentera ut problemet och gå vidare. En riktig programmerare räcker inte upp handen.
   
