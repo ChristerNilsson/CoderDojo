@@ -33,17 +33,24 @@ Här hittar du exempel på bitmappar att efterlikna: [data](https://github.com/Chr
 
 ## Inspiration
 
-Kolla Processing File | Examples... 
-* Där finns mycket kod skriven i Python. Look and Learn!
+### Youtube (På engelska, lägg på engelsk text)
 
-### Youtube (engelska)
-
+* Nedanstående videos använder Java, inte Python. De belyser dock Processing på ett bra sätt.
 * [Abe Pazos](https://www.youtube.com/watch?v=lYrZBK4NVZw&list=PL632BB8C3F7E776BA)
-  * Systematiskt och pedagogiskt lär Abe ut grundläggande Processing
+  * Systematiskt och pedagogiskt lär Abe ut grundläggande Processing/Java.
 * [Coding Rainbow](https://www.youtube.com/watch?v=5N31KNgOO0g&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9)
-  * Dan Shiffman sprudlar av entusiasm. Spontan och rolig.
+  * Dan Shiffman sprudlar av entusiasm. Spontan och rolig. Java och Javascript.
 
 ### Programmering i din browser
 
 * Processing med Python [online](https://trinket.io/processing)
 * Processing med Javascript [p5.js](https://www.tutorialspoint.com/try_p5js_online.php)
+
+Kolla Processing File | Examples... 
+* Där finns mycket kod skriven i Python. Inte så lämplig för nybörjaren, dock.
+
+### Böcker, mest på engelska.
+* https://processing.org/books/
+
+### Tutorials
+* https://processing.org/tutorials/
