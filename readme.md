@@ -38,9 +38,9 @@ Kolla Processing File | Examples...
 
 ### Youtube (engelska)
 
-* [Abe Pazos] https://www.youtube.com/watch?v=lYrZBK4NVZw&list=PL632BB8C3F7E776BA
+* [Abe Pazos](https://www.youtube.com/watch?v=lYrZBK4NVZw&list=PL632BB8C3F7E776BA)
   * Systematiskt och pedagogiskt lär Abe ut grundläggande Processing
-* [Coding Rainbow](]https://www.youtube.com/watch?v=5N31KNgOO0g&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9)
+* [Coding Rainbow](https://www.youtube.com/watch?v=5N31KNgOO0g&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9)
   * Dan Shiffman sprudlar av entusiasm. Spontan och rolig.
 
 ### Programmering i din browser
