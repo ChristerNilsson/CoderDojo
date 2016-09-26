@@ -37,7 +37,7 @@ Här hittar du exempel på bitmappar att efterlikna: [data](https://github.com/Chr
 * Nedanstående videos använder Java, inte Python. De belyser dock Processing på ett bra sätt.
 * [Abe Pazos](http://funprogramming.org/)
   * Systematiskt och pedagogiskt lär Abe ut grundläggande Processing/Java.
-  * http://funprogramming.org/113-Array-of-objects-hypnotic-animation-part-II.html
+  * [Exempel](http://funprogramming.org/113-Array-of-objects-hypnotic-animation-part-II.html)
 * [Coding Rainbow](https://www.youtube.com/watch?v=5N31KNgOO0g&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9)
   * Dan Shiffman sprudlar av entusiasm. Spontan och rolig. Java och Javascript.
 
