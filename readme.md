@@ -19,7 +19,7 @@
 05. Du ser nu tre bitmappar: 
   * Bitmappen högst upp är din. Varje ruta är 20 pixlar stor.
   * Bitmappen i mitten ska du efterlikna.
-  * Bitmappen längst ner visar skillnaden ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/klocka.PNG "The three bitmaps")  
+  * Bitmappen längst ner visar skillnaden ![alt text](https://github.com/ChristerNilsson/CoderDojo/blob/master/klocka.png "The three bitmaps")  
 06. Upprepa tills nästa uppgift dyker upp. Då har du lyckats med den första. Kontakta läraren om du behöver beröm.
 07. Repetera gärna uppgifterna. Det går tio gånger fortare andra gången!
 08. Om du kör fast:
